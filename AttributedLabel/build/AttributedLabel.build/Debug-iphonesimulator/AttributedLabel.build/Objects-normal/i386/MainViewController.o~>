@@ -1,0 +1,3 @@
+/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m: In function '-[MainViewController loadView]':
+/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m:49: warning: passing argument 2 of 'addAttribute:value:range:' from incompatible pointer type
+/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m:65: warning: passing argument 2 of 'addAttribute:value:range:' from incompatible pointer type

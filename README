@@ -1,3 +1,31 @@
+
+UHLabelView
+by Umer Hanif Sheikh
+============================================================================
+
+An advanced Label View for multi-style text rendering with multi-column 
+support.
+
+UHLabelView.m - Primary View for Rendering the NSAttributedString
+
+MainViewController.m - Example of using the UHLabelView
+
+The real motivation of posting this project on GitHub is to implement 
+selection and Magnifer Loupe in the Label View from Community input.
+
+Thanks, Please contribute to the project.
+
+Please feel to email me at umer@umerh.com
+
+Known Issues:
+* Background Color is only white
+
+
+
+The software package is provided under BSD License:
+
+============================================================================
+
 The BSD License
                 
 Copyright (c) 2010, Umer Hanif Sheikh

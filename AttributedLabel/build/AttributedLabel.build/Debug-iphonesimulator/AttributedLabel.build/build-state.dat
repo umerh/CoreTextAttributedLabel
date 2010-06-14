@@ -1,0 +1,310 @@
+TAttributedLabel
+v7
+r0
+t298184141.901221
+cCheck dependencies
+cProcessInfoPlistFile /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/Info.plist AttributedLabel-Info.plist
+cCompileXIB /Users/Umer/Documents/Projects/AttributedLabel/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/AttributedLabel.app/TextFile.txt TextFile.txt
+cProcessPCH /var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch.gch AttributedLabel_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/main.o /Users/Umer/Documents/Projects/AttributedLabel/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/AttributedLabelAppDelegate.o /Users/Umer/Documents/Projects/AttributedLabel/Classes/AttributedLabelAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/MainViewController.o /Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/UHLabelView.o /Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel normal i386
+cGenerateDSYMFile /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app.dSYM /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel
+cTouch /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BF591700000000000000110
+t1274384752
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000004B9F1DFF00000000000727D0
+t1268719103
+s468944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h
+c000000004B9F1DE400000000000007F4
+t1268719076
+s2036
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/Umer/Documents/Projects/AttributedLabel/AttributedLabel_Prefix.pch
+c000000004C15A47200000000000000C7
+t1276486770
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Umer/Documents/Projects/AttributedLabel/Classes/AttributedLabelAppDelegate.h
+c000000004C15A523000000000000019E
+t1276486947
+s414
+i<UIKit/UIKit.h>
+i"MainViewController.h"
+
+N/Users/Umer/Documents/Projects/AttributedLabel/Classes/AttributedLabelAppDelegate.m
+c000000004C15B0810000000000000297
+t1276489857
+s663
+i"AttributedLabelAppDelegate.h"
+
+N/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.h
+c000000004C15B472000000000000014B
+t1276490866
+s331
+i<UIKit/UIKit.h>
+i"UHLabelView.h"
+
+N/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m
+c000000004C15B61E0000000000001471
+t1276491294
+s5233
+i"MainViewController.h"
+
+N/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.h
+c000000004C15A57700000000000001FD
+t1276487031
+s509
+i<UIKit/UIKit.h>
+i<CoreText/CoreText.h>
+
+N/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m
+c000000004C15B64A0000000000001272
+t1276491338
+s4722
+i"UHLabelView.h"
+
+N/Users/Umer/Documents/Projects/AttributedLabel/MainWindow.xib
+c000000004C15A4720000000000003E95
+t1276486770
+s16021
+
+N/Users/Umer/Documents/Projects/AttributedLabel/TextFile.txt
+c000000004C155C4F0000000000000B1D
+t1276468303
+s2845
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/AttributedLabel.LinkFileList
+c000000004C15B0810000000000000273
+t1276489857
+s627
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/AttributedLabelAppDelegate.o
+t1276490875
+s42300
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/MainViewController.o
+t1276491296
+s48556
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/UHLabelView.o
+t1276491338
+s22740
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/main.o
+t1276489872
+s5960
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app
+t1276491339
+s238
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app.dSYM
+t1276491339
+s102
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel
+t1276491338
+s33052
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/Info.plist
+t1276489858
+s836
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/MainWindow.nib
+t1276489865
+s986
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/PkgInfo
+t1276489858
+s8
+
+N/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/TextFile.txt
+t1276489967
+s2845
+
+N/Users/Umer/Documents/Projects/AttributedLabel/main.m
+c000000004C15A4720000000000000170
+t1276486770
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch.gch
+t1276489870
+s13805456
+
+NAttributedLabel-Info.plist
+c000000004C15A47200000000000004D6
+t1276486770
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298184141#298184141#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/AttributedLabelAppDelegate.o /Users/Umer/Documents/Projects/AttributedLabel/Classes/AttributedLabelAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298183675.681572
+e298183675.922048
+r1
+xCompileC
+xbuild/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/AttributedLabelAppDelegate.o
+x/Users/Umer/Documents/Projects/AttributedLabel/Classes/AttributedLabelAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/Umer/Documents/Projects/AttributedLabel/Classes/AttributedLabelAppDelegate.m298183675#298183675#0(0"0(0#0#83"/Users/Umer/Documents/Projects/AttributedLabel/Classes/AttributedLabelAppDelegate.m4300911832#2157"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-generated-files.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-own-target-headers.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-all-target-headers.hmap -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-project-headers.hmap -F/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator -I/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/include -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources -include /var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch -c /Users/Umer/Documents/Projects/AttributedLabel/Classes/AttributedLabelAppDelegate.m -o /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/AttributedLabelAppDelegate.o0#
+
+CCompileC build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/MainViewController.o /Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298184095.893837
+e298184096.231417
+r1
+xCompileC
+xbuild/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/MainViewController.o
+x/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m: In function '-[MainViewController loadView]':
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m:50: warning: passing argument 2 of 'addAttribute:value:range:' from incompatible pointer type
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m:66: warning: passing argument 2 of 'addAttribute:value:range:' from incompatible pointer type
+lSLF07#2@83"Compile /Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m298184095#298184096#0(463"/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m: In function '-[MainViewController loadView]':/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m:50: warning: passing argument 2 of 'addAttribute:value:range:' from incompatible pointer type/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m:66: warning: passing argument 2 of 'addAttribute:value:range:' from incompatible pointer type2(22@80"Passing argument 2 of 'addAttribute:value:range:' from incompatible pointer type298184096#123#170#0(6@75"/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m298184094#50#0#50#0#56"passing argument * of '*' from incompatible pointer type0(22@80"Passing argument 2 of 'addAttribute:value:range:' from incompatible pointer type298184096#293#170#0(6@75"/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m298184094#66#0#66#0#56"passing argument * of '*' from incompatible pointer type0(0#0#75"/Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m4300911832#2141"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-generated-files.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-own-target-headers.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-all-target-headers.hmap -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-project-headers.hmap -F/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator -I/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/include -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources -include /var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch -c /Users/Umer/Documents/Projects/AttributedLabel/Classes/MainViewController.m -o /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/UHLabelView.o /Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298184138.272749
+e298184138.660109
+r1
+xCompileC
+xbuild/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/UHLabelView.o
+x/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m: In function '-[UHLabelView drawRect:]':
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: 'UHLabelView' may not respond to '-createColumns'
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: (Messages without a matching method signature
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: will be assumed to return 'id' and accept
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: '...' as arguments.)
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: initialization from incompatible pointer type
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m: In function '-[UHLabelView drawScaledContent:]':
+o/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:103: warning: passing argument 1 of 'CTFrameDraw' from incompatible pointer type
+lSLF07#2@76"Compile /Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m298184138#298184138#0(994"/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m: In function '-[UHLabelView drawRect:]':/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: 'UHLabelView' may not respond to '-createColumns'/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: (Messages without a matching method signature/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: will be assumed to return 'id' and accept/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: '...' as arguments.)/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:46: warning: initialization from incompatible pointer type/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m: In function '-[UHLabelView drawScaledContent:]':/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m:103: warning: passing argument 1 of 'CTFrameDraw' from incompatible pointer type4(22@49"'UHLabelView' may not respond to '-createColumns'298184138#110#132#0(6@68"/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m298184138#46#0#46#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)298184138#242#128#0(6@68"/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m298184138#46#0#46#0#0"0(22@45"Initialization from incompatible pointer type298184138#597#128#0(6@68"/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m298184138#46#0#46#0#45"initialization from incompatible pointer type0(22@66"Passing argument 1 of 'CTFrameDraw' from incompatible pointer type298184138#844#150#0(6@68"/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m298184138#103#0#103#0#56"passing argument * of '*' from incompatible pointer type0(0#0#68"/Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m4300911832#2127"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-generated-files.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-own-target-headers.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-all-target-headers.hmap -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-project-headers.hmap -F/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator -I/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/include -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources -include /var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch -c /Users/Umer/Documents/Projects/AttributedLabel/Classes/UHLabelView.m -o /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/UHLabelView.o0#
+
+CCompileC build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/main.o /Users/Umer/Documents/Projects/AttributedLabel/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298182671.883120
+e298182672.738896
+r1
+xCompileC
+xbuild/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/main.o
+x/Users/Umer/Documents/Projects/AttributedLabel/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Umer/Documents/Projects/AttributedLabel/main.m298182671#298182672#0(0"0(0#0#53"/Users/Umer/Documents/Projects/AttributedLabel/main.m4300911832#2105"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-generated-files.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-own-target-headers.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-all-target-headers.hmap -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-project-headers.hmap -F/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator -I/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/include -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources -include /var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch -c /Users/Umer/Documents/Projects/AttributedLabel/main.m -o /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Umer/Documents/Projects/AttributedLabel/MainWindow.xib
+s298182658.235949
+e298182665.677293
+r1
+xCompileXIB
+x/Users/Umer/Documents/Projects/AttributedLabel/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib298182658#298182665#0(0"0(0#0#61"/Users/Umer/Documents/Projects/AttributedLabel/MainWindow.xib4300911832#512"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/MainWindow.nib /Users/Umer/Documents/Projects/AttributedLabel/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/AttributedLabel.app/TextFile.txt TextFile.txt
+s298182767.861630
+e298182767.906815
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AttributedLabel.app/TextFile.txt
+xTextFile.txt
+lSLF07#2@17"Copy TextFile.txt298182767#298182767#0(0"0(0#0#59"/Users/Umer/Documents/Projects/AttributedLabel/TextFile.txt4300911832#488"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Umer/Documents/Projects/AttributedLabel/TextFile.txt /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app0#
+
+CGenerateDSYMFile /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app.dSYM /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel
+s298184138.777538
+e298184139.747118
+r1
+xGenerateDSYMFile
+x/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app.dSYM
+x/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/AttributedLabel.app.dSYM build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel298184138#298184139#0(0"0(0#0#110"/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel4300911832#431"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel -o /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app.dSYM0#
+
+CLd /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel normal i386
+s298184138.660236
+e298184138.777404
+r1
+xLd
+x/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel
+xnormal
+xi386
+lSLF07#2@115"Link /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel298184138#298184138#0(0"0(0#0#0"4300911832#962"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator -F/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator -filelist /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/Objects-normal/i386/AttributedLabel.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreText -o /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/AttributedLabel0#
+
+CProcessInfoPlistFile /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/Info.plist AttributedLabel-Info.plist
+s298182658.147002
+e298182658.235839
+r1
+xProcessInfoPlistFile
+x/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/Info.plist
+xAttributedLabel-Info.plist
+lSLF07#2@34"Process AttributedLabel-Info.plist298182658#298182658#0(0"0(0#0#73"/Users/Umer/Documents/Projects/AttributedLabel/AttributedLabel-Info.plist4300911832#527"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AttributedLabel-Info.plist -genpkginfo /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app/Info.plist0#
+
+CProcessPCH /var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch.gch AttributedLabel_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298182665.677672
+e298182671.882686
+r1
+xProcessPCH
+x/var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch.gch
+xAttributedLabel_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile AttributedLabel_Prefix.pch298182665#298182671#0(0"0(0#0#73"/Users/Umer/Documents/Projects/AttributedLabel/AttributedLabel_Prefix.pch4300911832#1981"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-generated-files.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-own-target-headers.hmap -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-all-target-headers.hmap -iquote /Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/AttributedLabel-project-headers.hmap -F/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator -I/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/include -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/Umer/Documents/Projects/AttributedLabel/build/AttributedLabel.build/Debug-iphonesimulator/AttributedLabel.build/DerivedSources -c /Users/Umer/Documents/Projects/AttributedLabel/AttributedLabel_Prefix.pch -o /var/folders/tu/tu-I0ruKHkmux32E-XtdS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AttributedLabel_Prefix-ccunexvugpghlcfosslygnsnhqjt/AttributedLabel_Prefix.pch.gch0#
+
+CTouch /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app
+s298184139.747233
+e298184139.751902
+r1
+xTouch
+x/Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app
+lSLF07#2@100"Touch /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app298184139#298184139#0(0"0(0#0#0"4300911832#302"    cd /Users/Umer/Documents/Projects/AttributedLabel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Umer/Documents/Projects/AttributedLabel/build/Debug-iphonesimulator/AttributedLabel.app0#
+
